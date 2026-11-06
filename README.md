@@ -1,0 +1,2 @@
+# GESTOR-DE-NOTAS-
+una aplicacion que permite gestionar calificaciones academicas registra notas y calcular promedio, facilita el rendimiento y seguimiento de los estudiantes, clasificandolos en categoria malo, bregular, bueno, excelente 
